@@ -13,7 +13,7 @@ Here is an example of what we are trying to achieve:
 - We will use 2.9% percentage fee + 30 cents fixed fee.
 - The donation will end up only being $96.70 after fees.
 - Bob would like to cover the costs!
-- The formula above will allow the nonprofit to recieve the full $100.
+- The formula above will allow the nonprofit to receive the full $100.
 
 What is the final donation Bob will make after covering costs?
 
